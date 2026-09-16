@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f6f22219c74102c3da70.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "F150_RX_V01_default_project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "F150_RX_V01_default_default_XC8_compile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F150_RX_V01_default_default_XC8_compile-b30957f04b67cf70d525.json",
+					"name" : "F150_RX_V01_default_default_XC8_compile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "F150_RX_V01_default_image_jVOfb9F5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F150_RX_V01_default_image_jVOfb9F5-561bbf5714fa702daf7b.json",
+					"name" : "F150_RX_V01_default_image_jVOfb9F5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/yiming/00work/FR685V2_V06.X/_build/F150_RX_V01/default",
+		"source" : "D:/yiming/00work/FR685V2_V06.X/cmake/F150_RX_V01/default"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}
