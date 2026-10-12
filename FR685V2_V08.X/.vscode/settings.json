@@ -1,0 +1,16 @@
+{
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}\\_build\\F150_RX_V01\\default",
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v3.10\\bin\\xc8-clangd.exe",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "mplab.clangd.arguments": [
+        "--header-insertion=never"
+    ],
+    "cmake.sourceDirectory": "D:/yiming/00work/FR685V2_V06.X/cmake/F150_RX_V01/default",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "gdbtarget",
+        "mplab-core-da"
+    ]
+}

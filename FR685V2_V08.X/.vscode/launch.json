@@ -1,0 +1,31 @@
+{
+  // 使用 IntelliSense 以得知可用的屬性。
+  // 暫留以檢視現有屬性的描述。
+  // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+
+    {
+      // 請注意：此處的屬性可覆蓋 MPLAB 專案設定。
+      "name": "啟動 {專案名稱}：{配置名稱}",
+      "type": "mplab-core-da",
+      "request": "launch",
+      "project": "F150_RX_V01",
+      "configuration": "default",
+      "stopOnEntry": true,
+      "preLaunchTask": "F150_RX_V01: default - 建置",
+      "program": "${workspaceFolder}/out/F150_RX_V01/default.elf"
+    },
+    {
+      // 請注意：此處的屬性可覆蓋 MPLAB 專案設定。
+      "name": "燒錄 {專案名稱}：{配置名稱}-生產",
+      "type": "mplab-core-da",
+      "request": "launch",
+      "project": "F150_RX_V01",
+      "configuration": "default",
+      "noDebug": true,
+      "preLaunchTask": "F150_RX_V01: default - 建置 (Production)",
+      "program": "${workspaceFolder}/out/F150_RX_V01/production/default-production.hex"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# ninja log v7
+345	4581	8123678136127938	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/mcc_generated_files/device_config.c.p1	8ededca27ea74e25
+140	5516	8123678134081365	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/main.c.p1	4bdfa2d6d6870584
+279	5386	8123678135492400	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/mcc_generated_files/LINDrivers/lin_slave.c.p1	e718f1ce01054d2d
+33	5377	8123678133012108	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/gpio.c.p1	97e8b2d48531cc48
+220	5135	8123678134877291	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/mcc_generated_files/LINDrivers/lin_app.c.p1	d4972664572427f2
+699	5787	8123678139710346	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/mcc_generated_files/pin_manager.c.p1	fd0459f4fa24567e
+451	5355	8123678137200754	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/mcc_generated_files/eusart.c.p1	e92308a3b123e75
+532	5977	8123678138020960	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/mcc_generated_files/interrupt_manager.c.p1	413d652df88be041
+763	5797	8123678140293133	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/mcc_generated_files/tmr0.c.p1	5fded8add4f198bc
+617	6254	8123678138861668	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06.X/mcc_generated_files/mcc.c.p1	1419d8cf5cc2e876
+6254	13766	8123678195225908	D:/yiming/00work/FR685V2_V06.X/out/F150_RX_V01/default.elf	4006b64b621b72b1
+373	4692	8134722088809756	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/mcc_generated_files/device_config.c.p1	2851ca5595042d37
+273	5117	8134722087759797	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/mcc_generated_files/LINDrivers/lin_slave.c.p1	7a9fecafda17c504
+75	5074	8134722085759716	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/gpio.c.p1	78a90b8abdd185a3
+182	5010	8134722086879733	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/mcc_generated_files/LINDrivers/lin_app.c.p1	f63d2487189e6b3a
+14	2558	8134724165122894	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/main.c.p1	7c370ce38657fb0e
+612	5550	8134722091118998	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/mcc_generated_files/interrupt_manager.c.p1	e5575cbddc44230f
+508	5130	8134722090068991	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/mcc_generated_files/eusart.c.p1	d9025221b9641ef3
+747	5470	8134722092469014	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/mcc_generated_files/pin_manager.c.p1	86380e282a64d8fb
+688	5534	8134722091929001	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/mcc_generated_files/mcc.c.p1	d8ec7fd3f503426a
+813	5595	8134722093130531	CMakeFiles/F150_RX_V01_default_default_XC8_compile.dir/D_/yiming/00work/FR685V2_V06_T01.X/mcc_generated_files/tmr0.c.p1	cbba23c5e7c58c98

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\FR685V2_V08.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>8192</length>
+      <used>1971</used>
+      <free>6221</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>512</length>
+      <used>135</used>
+      <free>377</free>
+    </memory>
+  </executable>
+</project>
